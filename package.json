@@ -1,0 +1,25 @@
+{
+  "name": "video-detailer",
+  "version": "1.0.0",
+  "description": "Get video details",
+  "main": "video-detailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunisDEV/video-detailer.git"
+  },
+  "keywords": [
+    "video",
+    "detailer",
+    "yunisdev",
+    "light"
+  ],
+  "author": "YunisDEV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YunisDEV/video-detailer/issues"
+  },
+  "homepage": "https://github.com/YunisDEV/video-detailer#readme"
+}
